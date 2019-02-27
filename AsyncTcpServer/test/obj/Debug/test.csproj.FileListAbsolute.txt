@@ -1,0 +1,7 @@
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\bin\Debug\test.exe.config
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\bin\Debug\test.exe
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\bin\Debug\test.pdb
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\obj\Debug\test.exe
+C:\Users\DM01259\source\repos\AsyncTcpServer\test\obj\Debug\test.pdb

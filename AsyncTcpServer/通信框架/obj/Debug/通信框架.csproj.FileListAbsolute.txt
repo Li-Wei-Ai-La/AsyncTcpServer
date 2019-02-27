@@ -1,0 +1,9 @@
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\bin\Debug\通信框架.dll
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\bin\Debug\通信框架.pdb
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\obj\Debug\通信框架.csprojAssemblyReference.cache
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\obj\Debug\通信框架.csproj.CoreCompileInputs.cache
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\obj\Debug\通信框架.dll
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\obj\Debug\通信框架.pdb
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\bin\Debug\log4net.dll
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\bin\Debug\log4net.xml
+C:\Users\DM01259\source\repos\AsyncTcpServer\通信框架\obj\Debug\通信框架.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "通信框架", "通信框架\通信框架.csproj", "{2E915285-800F-4AB5-8C36-B49F10D64545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0F6E465D-190C-4275-A58D-AC4784830509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E915285-800F-4AB5-8C36-B49F10D64545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E915285-800F-4AB5-8C36-B49F10D64545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E915285-800F-4AB5-8C36-B49F10D64545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E915285-800F-4AB5-8C36-B49F10D64545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6E465D-190C-4275-A58D-AC4784830509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6E465D-190C-4275-A58D-AC4784830509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6E465D-190C-4275-A58D-AC4784830509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6E465D-190C-4275-A58D-AC4784830509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3569E8B5-7CEC-4FCD-9734-441D13B28E43}
+	EndGlobalSection
+EndGlobal
